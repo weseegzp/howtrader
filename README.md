@@ -13,6 +13,11 @@ the other part not related to cryptocurrency.
 
 # 切换环境
 conda activate bittrader
+
+更新 
+pip uninstall howtrader
+然后重新安装
+
 # 安装 installation 
 直接把代码下载下来，然后切换到你的虚拟环境，或者使用当前的环境也是可以的， 在终端输入：
 
